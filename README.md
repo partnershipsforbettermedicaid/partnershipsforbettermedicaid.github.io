@@ -4,7 +4,7 @@ An abstract paper exploring the feasibility of partnerships between state Medica
 
 ## My Personal Story
 
-In 1994 I broke my neck in a performance gymnastics routine. As a C5-6 quadriplegic, I require help and equipment for day-to-day activities. Most people who meet me are out in my community where I get aroud in a manual-assist motorized wheelchair. To them I am pretty independent. In the store I need someone to get items off the shelf and put them in my basket and I cannot swipe my card at checkout. When I drop something oftentimes someone has to pick it up for me. At home I can prepare meals and cook a pretty good steak or pork chops. But while I may appear to be pretty independent, every morning someone bathes and dresses me and transfers me into my wheelchair. The routine is flipped around every evening.
+In 1994 I broke my neck in a performance gymnastics routine. As a C5-6 quadriplegic, I require help and equipment for day-to-day activities. Most people meet me in my community where I get aroud in a manual-assist motorized wheelchair. To them I am pretty independent. In the store I need someone to get items off the shelf and put them in my basket and I cannot swipe my card at checkout. When I drop something oftentimes someone has to pick it up for me. At home I can prepare meals and cook a pretty good steak or pork chops. But while I may appear to be pretty independent, every morning someone bathes and dresses me and transfers me into my wheelchair. The routine is flipped around every evening.
 
 My daily care routine is further complicated by many paralysis-related conditions:
 
