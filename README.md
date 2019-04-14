@@ -68,3 +68,15 @@ Figure 2. College and University Programs that Provide these Services.
 ### Improved Oversight and Metrics
 
 ### Added Revenue Source for Educational Programs
+
+## Obstacles to Adoption
+
+### Provider Agencies
+
+### Certificate Mills
+
+### Federal Requirements
+
+### Privacy Concerns
+
+### Existing Bureaucracy
