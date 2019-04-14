@@ -1,4 +1,5 @@
-# medicaduniversitypartnerships
+# Partnerships for Better Medicaid
+
 An abstract paper exploring the feasibility of partnerships between state Medicaid offices a states colleges and universities to provide better care options to Medicaid recipients.
 
 ## My Personal Story
@@ -15,8 +16,55 @@ My daily care routine is further complicated by many paralysis-related condition
 * Weight management
 * Psychological strain of ensuring each caregiver is providing the acceptible level of care
 
-So, every day my physical condition requires some level of physical assistance from someone: typically between two and 8 hours depending on the ammount of care I need. Over the years I have been blessed with friends and family who have provided each of these services for me and for them I am eternally grateful. But this is not sustainable when I rely on a single family member or friend for my day-to-day care. For this reason I have received community-based care through state Medicaid waiver programs through most of my adulthood. 
+So, every day my physical condition requires some level of physical assistance from someone: typically between two and 8 hours depending on the ammount of care I need. Over the years I have been blessed with friends and family who have provided each of these services for me and for them I am eternally grateful. But this is not sustainable when I rely on a single family member or friend for my day-to-day care. For this reason I have received community-based care through state Medicaid waiver programs through most of my adulthood.
 
-## The Problem with Community-based Care
+## Community-based Care, An Alternative to Institutions
 
-Community-based care
+Community-based care is provided by most states as an alternative to institutional care for people who can prove they have the natural supports to live in their community. Beneficiaries of these programs have conditions across a broad spectrum of diagnosed conditions. For families without the means to pay for in-home care and many people with disabilities state, federal, county, and city programs are the funding source for their essential daily care. They can live somewhat independently in their homes or apartments instead of a nursing home or other institution.
+
+Figure 1. Some conditions served by community-based care programs.
+
+* Mental illness
+* Physical disability
+* Developmental disability
+* Rehabilitation
+* Aging
+* Blindness
+* Hearing impairment
+* Childhood disability
+
+Community-based care is by most measures a tremendous success. TO-DO: Cite research here.
+
+## Medicaid's Flawed Implementation of Community-based Care
+
+For-profit Agencies.
+
+Bureaucratic Red Tape.
+
+Politicized Budgetary Constraints.
+
+Burden on the Recipient.
+
+## The Case for Partnerships with State Colleges and Universities
+
+### Reliable Pool of Motivated Service Providers
+
+Figure 2. College and University Programs that Provide these Services.
+
+* Nursing
+* Psychology
+* Social Services
+* Nutrition
+* Pre-Health
+* Sociology
+* Public Health
+* Social Work
+* Early Childhood Development
+* Health Sciences
+* Social Sciences
+
+### Opportunities for Field Research
+
+### Improved Oversight and Metrics
+
+### Added Revenue Source for Educational Programs
