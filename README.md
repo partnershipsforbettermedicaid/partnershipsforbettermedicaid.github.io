@@ -1,6 +1,6 @@
 # Partnerships for Improved Medicaid Community-based Care
 
-An abstract paper exploring the feasibility of partnerships between state Medicaid offices a states colleges and universities to provide better community-based care to Medicaid recipients.
+An abstract paper exploring the feasibility of partnerships between state Medicaid offices and colleges and universities to provide better community-based care to Medicaid recipients and outcomes for the programs themselves.
 
 ## My Personal Story
 
